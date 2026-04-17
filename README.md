@@ -18,7 +18,6 @@ I'm a **21-year-old Full Stack Developer**
 ## 🙋🏻‍♂️ About Me
 
  - I’m a passionate Software Engineer who loves building robust and scalable applications.  
- - Skilled in Full Stack Development with hands-on experience in React.js, Node.js, Express.js, Flask, and MongoDB. 
  - I enjoy solving Data Structures and Algorithms (DSA) problems to sharpen my coding and problem-solving skills.  
  - Currently exploring Backend Development, System Design, and Generative AI technologies.  
  - I believe in continuous learning and enjoy picking up new programming languages, frameworks, and tools.  
@@ -44,129 +43,127 @@ I'm a **21-year-old Full Stack Developer**
 <h3 align="left">Languages and Tools</h3>
 <br>
 <p>
-
-
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  height="40" alt="css3"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  height="40" alt="javascript"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
    <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" width="40" height="40" alt="javascript"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" height="40" alt="javascript"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hadoop.png" width="40" height="40" alt="javascript"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hadoop.png" height="40" alt="javascript"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
 
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="40" height="40" alt="mongodb"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"  height="40" alt="mongodb"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png" width="40" height="40" alt="mongodb"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png"  height="40" alt="mongodb"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
     
 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="40" height="40" alt="postgresql"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"  height="40" alt="postgresql"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 	
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="40" height="40" alt="nodejs"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"  height="40" alt="nodejs"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" width="40" height="40" alt="nodejs"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" height="40" alt="nodejs"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" width="40" height="40" alt="nodejs"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png"  height="40" alt="nodejs"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" width="40" height="40" alt="nodejs"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png"  height="40" alt="nodejs"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" width="40" height="40" alt="nodejs"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png"  height="40" alt="nodejs"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/rest-api-introduction/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="40" height="40" alt="nodejs"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" height="40" alt="nodejs"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   	
  
    <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40" height="40" alt="nodejs"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" height="40" alt="nodejs"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
  
   
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="40" height="40" alt="nodejs"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" height="40" alt="nodejs"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
    <a href="https://vite.dev/guide/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="40" height="40" alt="nodejs"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" height="40" alt="nodejs"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  height="40" alt="react"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="tailwind"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  height="40" alt="tailwind"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="aws"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="40" height="40" alt="aws"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" height="40" alt="aws"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="40" height="40" alt="aws"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png"  height="40" alt="aws"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" width="40" height="40" alt="aws"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png"  height="40" alt="aws"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="40" height="40" alt="aws"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" height="40" alt="aws"/>
   </a>
 
 </p>
@@ -192,14 +189,28 @@ I'm a **21-year-old Full Stack Developer**
 <hr width="60%" >
 <h3 align="left">Connect with me</h3>
 
+<!-- <p align="left">
+<span style="display:flex; align-items:center;">
+<a href="https://www.linkedin.com/in/omkumavat/" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="35" />
+</a>
+&nbsp;&nbsp;
+<a href="https://codeverse-platform.vercel.app/user/omkumavat" target="blank">
+<img src="https://images.icon-icons.com/185/PNG/512/Terminal_22714.png" height="35" width="35" />
+</a>
+</span>
+</p> -->
 <p align="left">
-<a href="https://www.linkedin.com/in/omkumavat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-  <a href="https://codeverse-platform.vercel.app/user/omkumavat" target="blank"><img align="center" src="https://images.icon-icons.com/185/PNG/512/Terminal_22714.png" alt="anirudh-rai-072732220" height="40" width="40" /></a>
-  
+<a href="https://www.linkedin.com/in/omkumavat/" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
+</a>&nbsp;&nbsp;
+<a href="https://codeverse-platform.vercel.app/user/omkumavat" target="blank">
+<img src="https://images.icon-icons.com/185/PNG/512/Terminal_22714.png" height="35"/>
+</a>
 </p>
 <br>
 
 
 [omkumavat](https://github.com/omkumavat)
 
-Last Edited on: 27/04/2025
+Last Edited on: 17/04/2026
